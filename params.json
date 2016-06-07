@@ -1,6 +1,6 @@
 {
-  "name": "Links",
+  "name": "My links",
   "tagline": "",
-  "body": "<h1> Links for social webs </h1>\r\n<section>\r\n<div>\r\n<p> See at my VK page:\r\n<a href=\"https://vk.com/dembrovsky99\" title=\"VK page\">Link for VK</a>\r\n</p>\r\n</div>\r\n<p> This is my facebook page:\r\n<a href=\"https://www.facebook.com/profile.php?id=100008898289094\" title=\"Facebook page\"> Link for FB</a>\r\n</p>\r\n</section>",
+  "body": "<h1> Links for social webs </h1>\r\n<ul>\r\n<li> See at my VK page:\r\n<a href=\"https://vk.com/dembrovsky99\" title=\"VK page\">Link for VK</a></li>\r\n<li>This is my facebook page:\r\n<a href=\"https://www.facebook.com/profile.php?id=100008898289094\" title=\"Facebook page\"> Link for FB</a></li>\r\n</ul>",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
