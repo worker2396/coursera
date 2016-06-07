@@ -6,15 +6,11 @@
 </head>
 <body>
 <h1> Links for social webs </h1>
-<section>
-<div>
-<p> See at my VK page:
-<a href="https://vk.com/dembrovsky99" title="VK page">Link for VK</a>
-</p>
-</div>
-<p> This is my facebook page:
-<a href="https://www.facebook.com/profile.php?id=100008898289094" title="Facebook page"> Link for FB</a>
-</p>
-</section>
+<ul>
+<li> See at my VK page:
+<a href="https://vk.com/dembrovsky99" title="VK page">Link for VK</a></li>
+<li>This is my facebook page:
+<a href="https://www.facebook.com/profile.php?id=100008898289094" title="Facebook page"> Link for FB</a></li>
+</ul>
 </body>
 </html>
