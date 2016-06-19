@@ -32,16 +32,18 @@ h1{
 {.col-lg-4
 	{float: left;
 	 background-color: grey;
-	 border: 7px solid black;}
+	 border: 5px solid black;
+	 margin: 0.4%;}
 }	
-.col-lg-4{width: 33%;}
+.col-lg-4{width: 32%;}
 @media (min-width: 768px) and (max-width: 991px){
 	.col-md-6,.col-md-12
-	{border: 7px solid black;}
+	{border: 5px solid black;
+	 margin: 0.4%;}
 	.col-md-6{float: left;
 		      width: 49%;
 			  background-color: grey;}
-	.col-md-12{width: 100%;
+	.col-md-12{width: 99.2%;
 		      float: left;
 		      background-color: grey;}
 }
@@ -49,7 +51,8 @@ h1{
 	    .col-sm-12{
 		float: left;
 		background-color: grey;
-		width: 100%;
-		border: 7px solid black;	
+		width: 99.2%;
+		border: 5px solid black;
+		margin: 0.4%;	
 		}
 }
