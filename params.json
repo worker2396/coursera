@@ -1,6 +1,0 @@
-{
-  "name": "Coursera",
-  "tagline": "",
-  "body": "\r\n<h1>Our menu</h1>\r\n\t<div class=\"box col-lg-4 col-md-6 col-sm-12\">\r\n\t\t<p class=\"pn\" id=\"p1\">Sushi</p>\r\n\t\t<p id=\"p0\">Lorem ipsum dolor sit amet, nam ei corrumpit incorrupte. Id eam sanctus meliore, vix populo tincidunt voluptatum ad. An nam appareat signiferumque. Nibh mucius te pri, per quod novum impetus no, novum inermis sea an. Quaeque maiorum te nec. </p>\r\n\t\t</div>\r\n\t<div class=\"box col-lg-4 col-md-6 col-sm-12\">\r\n\t\t<p class=\"pn\" id=\"p2\">Chicken</p>\r\n\t\t<p id=\"p0\">Lorem ipsum dolor sit amet, nam ei corrumpit incorrupte. Id eam sanctus meliore, vix populo tincidunt voluptatum ad. An nam appareat signiferumque. Nibh mucius te pri, per quod novum impetus no, novum inermis sea an. Quaeque maiorum te nec.</p>\r\n\t</div>\r\n\t<div class=\"box col-lg-4 col-md-12 col-sm-12\">\r\n\t\t<p class=\"pn\" id=\"p3\">Beef</p>\r\n\t\t<p id=\"p0\">Lorem ipsum dolor sit amet, nam ei corrumpit incorrupte. Id eam sanctus meliore, vix populo tincidunt voluptatum ad. An nam appareat signiferumque. Nibh mucius te pri, per quod novum impetus no, novum inermis sea an. Quaeque maiorum te nec.</p>\r\n\t</div>",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
